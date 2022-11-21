@@ -1,0 +1,11 @@
+{
+    
+    "cidades":[["Araquari","Balneario","Coimbra","Dourado","Miami"],["Joinville","BalnearioPiçarras","BarraVelha","Berlin","Guarulhos"],["BeloHorizonte","SãoPaulo","NovaYork","BarraVelha","JaraguádoSul"]],
+
+    "frutas":[["limão","pera","maça","uva","coco"],["ameixa","abacaxi","maracuja","cereja","banana"],["goiaba","framboesa","tomate","melancia"]],
+
+    "paises":[["Chile","Vietna","Cuba","Vaticano","Gana"],["Italia","Hungria","Monaco","Mexico","Afganistão"],["AbuDhabi","NovaGuiné","EmiliaRomagna","Papua-NovaGuiné","ReinoUnido"]],
+
+    "objetos":[["bola","vidro","livro","mouse","fone"],["peteca","garrafa","cadeira","teclado","telefone"],["umidificador","extensao","notebook","jaqueta","processador"]]
+}
+

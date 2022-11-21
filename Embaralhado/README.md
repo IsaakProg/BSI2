@@ -7,7 +7,7 @@
 - Clone o repositório:
 
 ```bash
-git clone https://github.com/IsaakProg/Embaralhado.git
+git clone https://github.com/IsaakProg/BSI2/tree/main/Embaralhado
 ```
 
 - Entre na pasta:
